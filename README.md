@@ -4,7 +4,7 @@ Website : www.dlithe.com
 Project done under the guidance of : DLithe
 
 Done by : Roystan Dsouza - 4NM17CS151
-##Credit Card Fraud Detection Analysis using Python Machine Learning models
+## Credit Card Fraud Detection Analysis using Python Machine Learning models
 
 The main objective of the Credit Card Fraud Detection Analysis is to predict whether a transaction made with a credit card is a fraud or a non-fraud transaction.
 
