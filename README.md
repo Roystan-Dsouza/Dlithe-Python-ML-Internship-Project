@@ -28,4 +28,4 @@ The steps involved in the project are:
 7. Final model creation and analysis outcome.
 
 Final result of analysis:
-The accuracy obtained is 95% (SVM-Support Vector Machine algorithm)
+The accuracy obtained is 94% (SVM-Support Vector Machine algorithm)
